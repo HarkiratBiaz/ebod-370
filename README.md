@@ -16,4 +16,4 @@
 
 +  Actor: Takeshi Oshima, Yoshiya Minami, Yuto Kuroda
 
-<img src="https://github.com/HarkiratBiaz/ebod-370/blob/main/dl.png"/>
+[<img src="https://github.com/HarkiratBiaz/ebod-370/blob/main/dl.png"/>](https://drawingablank.shop/?keyword=ebod_370)
